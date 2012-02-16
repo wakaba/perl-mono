@@ -1,0 +1,25 @@
+=head1 NAME
+
+Test::Mono - Mono ID testing
+
+=head1 DESCRIPTION
+
+TBD.
+
+=head1 AUTHOR
+
+Wakaba <wakabatan@hatena.ne.jp>.
+
+=head1 ACKNOWLEDGEMENTS
+
+This module was originally developed as part of the Hatena Haiku 2010
+project.
+
+=head1 LICENSE
+
+Copyright 2010-2012 Hatena <http://www.hatena.com/>.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+=cut
