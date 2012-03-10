@@ -1,0 +1,3 @@
+Exporter::Lite
+Path::Class
+Test::Class
