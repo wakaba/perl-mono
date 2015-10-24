@@ -1,0 +1,15 @@
+Try::Tiny~0.22
+Capture::Tiny~0.30
+Exporter::Lite~0.06
+Test::Class~0.50
+Data::Dumper~2.154
+Time::HiRes~1.9726
+Module::Runtime~0.014
+Class::Accessor::Fast~0.34
+Test::More~1.001014
+Text::Diff~1.43
+Test::Differences~0.63
+Class::Data::Inheritable~0.08
+Path::Class~0.35
+MRO::Compat~0.12
+Algorithm::Diff~1.1903

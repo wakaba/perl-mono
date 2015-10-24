@@ -4,7 +4,7 @@ use warnings;
 use Path::Class;
 use lib file(__FILE__)->dir->parent->parent->subdir('lib')->stringify;
 use lib file(__FILE__)->dir->parent->parent->subdir('t', 'lib')->stringify;
-use lib file(__FILE__)->dir->parent->parent->subdir('modules', 'perl-test-moremore', 'lib')->stringify;
+use lib file(__FILE__)->dir->parent->parent->subdir('t_deps', 'modules', 'perl-test-moremore', 'lib')->stringify;
 use base qw(Test::Class);
 use Test::Mono;
 use Test::MoreMore;
