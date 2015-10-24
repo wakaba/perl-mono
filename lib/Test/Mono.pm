@@ -2,6 +2,7 @@ package Test::Mono;
 use strict;
 use warnings;
 our $VERSION = '2.0';
+use Carp;
 use Mono::ID;
 
 our @EXPORT = qw(
