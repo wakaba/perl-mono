@@ -12,7 +12,7 @@ ExtUtils::CBuilder~0.280224
 Try::Tiny~0.24
 Parse::CPAN::Meta~1.4417
 parent~0.234
-Exporter::Lite~0.07
+Exporter::Lite~0.08
 Test::Class~0.50
 ExtUtils::ParseXS~3.30
 version~0.9912
