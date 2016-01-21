@@ -4,7 +4,7 @@ Class::Accessor::Fast~0.34
 Module::Runtime~0.014
 Class::Data::Inheritable~0.08
 CPAN::Meta~2.150005
-Module::Build~0.4214
+Module::Build~0.4216
 Perl::OSType~1.009
 MRO::Compat~0.12
 Algorithm::Diff~1.1903
@@ -19,6 +19,7 @@ version~0.9912
 Data::Dumper~2.154
 CPAN::Meta::YAML~0.018
 Time::HiRes~1.9728
+TAP::Harness~3.36
 JSON::PP~2.27300
 Text::Diff~1.43
 Test::More~1.001014
