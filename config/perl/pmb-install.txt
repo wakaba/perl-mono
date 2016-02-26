@@ -1,5 +1,5 @@
 Module::Metadata~1.000027
-Capture::Tiny~0.30
+Capture::Tiny~0.34
 Class::Accessor::Fast~0.34
 Module::Runtime~0.014
 Class::Data::Inheritable~0.08
@@ -15,7 +15,7 @@ parent~0.234
 Exporter::Lite~0.08
 Test::Class~0.50
 ExtUtils::ParseXS~3.30
-version~0.9912
+version~0.9914
 Data::Dumper~2.154
 CPAN::Meta::YAML~0.018
 Time::HiRes~1.9728
@@ -25,4 +25,4 @@ Text::Diff~1.43
 Test::More~1.001014
 Test::Differences~0.64
 CPAN::Meta::Requirements~2.140
-Path::Class~0.35
+Path::Class~0.36
