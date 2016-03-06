@@ -15,7 +15,7 @@ parent~0.234
 Exporter::Lite~0.08
 Test::Class~0.50
 ExtUtils::ParseXS~3.30
-version~0.9914
+version~0.9915
 Data::Dumper~2.154
 CPAN::Meta::YAML~0.018
 Time::HiRes~1.9728
