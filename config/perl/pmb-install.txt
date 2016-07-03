@@ -10,7 +10,7 @@ MRO::Compat~0.12
 Algorithm::Diff~1.1903
 ExtUtils::CBuilder~0.280224
 Try::Tiny~0.24
-Parse::CPAN::Meta~1.4421
+Parse::CPAN::Meta~1.4422
 parent~0.234
 Exporter::Lite~0.08
 Test::Class~0.50
