@@ -16,7 +16,7 @@ Exporter::Lite~0.08
 Test::Class~0.50
 ExtUtils::ParseXS~3.30
 version~0.9917
-Data::Dumper~2.160
+Data::Dumper~2.161
 CPAN::Meta::YAML~0.018
 Time::HiRes~1.9739
 TAP::Harness~3.36
