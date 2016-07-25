@@ -1,4 +1,4 @@
-Module::Metadata~1.000027
+Module::Metadata~1.000033
 Capture::Tiny~0.42
 Class::Accessor::Fast~0.34
 Module::Runtime~0.014
