@@ -15,12 +15,12 @@ Module::Build~0.4218
 Module::Metadata~1.000033
 Module::Runtime~0.014
 Parse::CPAN::Meta~1.4422
-Path::Class~0.36
+Path::Class~0.37
 Perl::OSType~1.010
 TAP::Harness~3.36
 Test::Class~0.50
 Test::Differences~0.64
-Test::More~1.302049
+Test::More~1.302052
 Text::Diff~1.44
 Time::HiRes~1.9739
 Try::Tiny~0.24
