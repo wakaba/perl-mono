@@ -23,6 +23,6 @@ Test::Differences~0.64
 Test::More~1.302052
 Text::Diff~1.44
 Time::HiRes~1.9739
-Try::Tiny~0.24
+Try::Tiny~0.27
 parent~0.234
 version~0.9917
