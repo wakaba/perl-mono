@@ -19,9 +19,9 @@ Perl::OSType~1.010
 TAP::Harness~3.36
 Test::Class~0.50
 Test::Differences~0.64
-Test::More~1.302056
+Test::More~1.302059
 Text::Diff~1.44
-Time::HiRes~1.9739
+Time::HiRes~1.9740
 Try::Tiny~0.27
 parent~0.234
 version~0.9917
