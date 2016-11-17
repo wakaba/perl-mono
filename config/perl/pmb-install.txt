@@ -7,9 +7,9 @@ Exporter::Lite~0.08
 MRO::Compat~0.12
 Module::Runtime~0.014
 Path::Class~0.37
-Test::Builder~1.302062
 Test::Class~0.50
 Test::Differences~0.64
+Test::More~1.302062
 Text::Diff~1.44
 Time::HiRes~1.9740
 Try::Tiny~0.27
