@@ -5,7 +5,7 @@ Class::Data::Inheritable~0.08
 Data::Dumper~2.161
 Exporter::Lite~0.08
 MRO::Compat~0.13
-Module::Runtime~0.014
+Module::Runtime~0.015
 Path::Class~0.37
 Test::Builder~1.302086
 Test::Class~0.50
