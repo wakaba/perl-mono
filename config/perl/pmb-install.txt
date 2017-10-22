@@ -1,6 +1,6 @@
 Algorithm::Diff~1.1903
 Capture::Tiny~0.46
-Class::Accessor::Fast~0.34
+Class::Accessor::Fast~0.51
 Class::Data::Inheritable~0.08
 Data::Dumper~2.161
 Exporter::Lite~0.08
