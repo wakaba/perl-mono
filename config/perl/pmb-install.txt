@@ -11,5 +11,5 @@ Test::Builder~1.302120
 Test::Class~0.50
 Test::Differences~0.64
 Text::Diff~1.45
-Time::HiRes~1.9749
+Time::HiRes~1.9750
 Try::Tiny~0.30
