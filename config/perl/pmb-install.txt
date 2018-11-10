@@ -2,7 +2,7 @@ Algorithm::Diff~1.1903
 Capture::Tiny~0.48
 Class::Accessor::Fast~0.51
 Class::Data::Inheritable~0.08
-Data::Dumper~2.172
+Data::Dumper~2.173
 Exporter::Lite~0.08
 MRO::Compat~0.13
 Module::Runtime~0.016
